@@ -7,15 +7,16 @@ This is a game project. The idea of this game is from the dinosaur game in **Goo
 the obstacles and earn 5 points each time you have passed through each obstacle.
 
 ####❤️ Welcome page
-
-* The welcome page is the welcome screen to the game, in this page there's only one thing you should do which is to 
-  click `PLAY` button in the middle of the page. After that, the pop-up button will pop to ask you to write your name
-  to continue to the main page and start playing the game.
-    
+    * The welcome page is the welcome screen to the game, in this page there'so
+      only one thing you should do which is to 
+      click `PLAY` button in the middle of the page. After that, the pop-up 
+      button will pop to ask you to write your name
+      to continue to the main page and start playing the game.
+        
 ![Welcome page](welcome page.gif)
   
 ####❤️ Playing
-
+    
 * After done putting the name in welcome page, the `main game-screen` will automatically appear on the screen.
    The job for user to do is to `play(jump)` to avoid those obstacles and **stay alive** as long as possible. While users
    are playing, the users will get 5 scores for each time you passed through the obstacle, but if you hit the obstacles,

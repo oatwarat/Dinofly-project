@@ -110,7 +110,7 @@ class stage:
             if 70 <= self.scores >= 95:
                 self.obs.speed(10)
             if self.scores > 100:
-                self.obs.speed(11)
+                self.obs.speed(10)
             self.obs.showturtle()
             self.obs.goto(-355, self.obstacles[i].pos.y)
             self.obs.hideturtle()

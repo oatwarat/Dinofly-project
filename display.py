@@ -15,7 +15,7 @@ scr.listen()
 scr.onclick(stage.click_play)  # click to start game
 
 cac = 500  # amount of cactus
-bird = 380  # amount of bird
+bird = 400  # amount of bird
 for i in range(cac):
     # loop to append to stage
     random = randint(500, 1200)
