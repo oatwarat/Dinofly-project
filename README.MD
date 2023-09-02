@@ -1,6 +1,6 @@
 # DINOFLY 🦕
 * Freshman computer programming's annual project
-####✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+#### ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ## Overview
 
 * Dinofly is a game inspired by the familiar dinosaur game found in **Google Chrome**. However, it brings a fresh twist 
@@ -8,37 +8,30 @@ to the table. In Dinofly, your dinosaur has taken to the skies, allowing you to 
 points for successfully passing each one.
 
 
-###️ Welcome page
-* The welcome page is the welcome screen to the game, in this page there'so
-      only one thing you should do which is to 
-      click `PLAY` button in the middle of the page. After that, the pop-up 
-      button will pop to ask you to write your name
-      to continue to the main page and start playing the game.
-        
+### ❤️ Welcome page
 ![Welcome page](pictures/welcome page.gif)
+
+* The welcome page is your entry point to the game. Simply click the "PLAY" button in the center of the page. 
+A pop-up will prompt you to enter your name to proceed to the main game screen.
+        
+
   
-###️ Playing
-    
-* After done putting the name in welcome page, the `main game-screen` will automatically appear on the screen.
-   The job for user to do is to `play(jump)` to avoid those obstacles and **stay alive** as long as possible. While users
-   are playing, the users will get 5 scores for each time you passed through the obstacle, but if you hit the obstacles,
-   it means you are dead(game over). The obstacles in here will be coming **faster** when you reach certain points. 
-   In ex. when you started the game the obstacles start with the speed of 4, but when you achieved 50 points the 
-   obstacle's speed might be 7
-  
+### ❤️ Playing
 ![playing page](pictures/playing page.gif)
 
-
-###️ Game over
-
-* After you hit the obstacles, playing screen will automatically disappear and this screen(game over) will be appearing
-  after that. In this screen it will show you how many scores you have earned, what's current high score right now
-  and done by whom.
+* Once you've entered your name, the main game screen will appear. Your goal is to control the dinosaur, making it 
+jump to avoid obstacles and stay alive as long as possible. You'll earn five points for each successful obstacle 
+clearance. Obstacles will become progressively faster as you accumulate more points.
   
- 
 
 
+
+### ❤️ Game over
 ![game over page](pictures/game ov.gif)
+
+* When you collide with an obstacle, the game over screen will display your score, the current high score, 
+* and the player who achieved it.
+  
 
 ### Required
 
@@ -74,10 +67,10 @@ points for successfully passing each one.
   and in this class we make the code becomes short and understandable. Furthermore, in this class I use this class
   to make the obstacles in for-loop to append those objects into __list of objects__ in stage.
       
-* The program must be run in display.py by the user.
+* To run the game, execute `display.py`.
 
-### Code structure
+### Data storage
 
 
-* There are one type of files that are used: json
+* The game uses a JSON file.
     - `users.json` used to keep track of the user's name and user's score.
