@@ -8,7 +8,7 @@ points for successfully passing each one.
 
 
 ### ❤️ Welcome page
-![Welcome](./pictures/welcome page.gif)
+![Welcome](./pictures/welcome_page.gif)
 
 
 * The welcome page is your entry point to the game. Simply click the "PLAY" button in the center of the page. 
@@ -17,7 +17,7 @@ A pop-up will prompt you to enter your name to proceed to the main game screen.
 
   
 ### ❤️ Playing
-![Playing](./pictures/playing page.gif)
+![Playing](./pictures/playing_page.gif)
 
 * Once you've entered your name, the main game screen will appear. Your goal is to control the dinosaur, making it 
 jump to avoid obstacles and stay alive as long as possible. You'll earn five points for each successful obstacle 
@@ -27,7 +27,7 @@ clearance. Obstacles will become progressively faster as you accumulate more poi
 
 
 ### ❤️ Game over
-![Game over](./pictures/game over.gif)
+![Game over](./pictures/game_over.gif)
 
 * When you collide with an obstacle, the game over screen will display your score, the current high score, 
 * and the player who achieved it.

@@ -41,8 +41,8 @@ class Interface:
 
     def game_over(self):
         # this is the picture that will appear after you lose.
-        screen.addshape('pictures/game over.gif')
-        self.over.shape("pictures/game over.gif")
+        screen.addshape('pictures/game_over.gif')
+        self.over.shape("pictures/game_over.gif")
 
     def txt(self):
         # this is the text after game over and it will tell you to click to exit.
