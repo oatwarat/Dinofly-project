@@ -1,13 +1,14 @@
 # DINOFLY 🦕
-✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+* Freshman computer programming's annual project
+###✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ## Overview
 
-```This is a game project. The idea of this game is from the dinosaur game in **Google Chrome**. The project is called
-`Dinofly` game is because it is different from the actual dinosaur game. This game can fly up into the sky to avoid
-the obstacles and earn 5 points each time you have passed through each obstacle.
-```
+* Dinofly is a game inspired by the familiar dinosaur game found in **Google Chrome**. However, it brings a fresh twist 
+to the table. In Dinofly, your dinosaur has taken to the skies, allowing you to navigate obstacles and earn five 
+points for successfully passing each one.
 
-####❤️ Welcome page
+
+###❤️ Welcome page
 * The welcome page is the welcome screen to the game, in this page there'so
       only one thing you should do which is to 
       click `PLAY` button in the middle of the page. After that, the pop-up 
@@ -16,7 +17,7 @@ the obstacles and earn 5 points each time you have passed through each obstacle.
         
 ![Welcome page](pictures/welcome page.gif)
   
-####❤️ Playing
+###❤️ Playing
     
 * After done putting the name in welcome page, the `main game-screen` will automatically appear on the screen.
    The job for user to do is to `play(jump)` to avoid those obstacles and **stay alive** as long as possible. While users
@@ -28,7 +29,7 @@ the obstacles and earn 5 points each time you have passed through each obstacle.
 ![This is a second page](pictures/playing page.gif)
 
 
-####❤️ Game over
+###❤️ Game over
 
 * After you hit the obstacles, playing screen will automatically disappear and this screen(game over) will be appearing
   after that. In this screen it will show you how many scores you have earned, what's current high score right now

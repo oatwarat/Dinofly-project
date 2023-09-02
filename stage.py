@@ -44,7 +44,7 @@ class stage:
         :param y: int
         """
         if -155 < x > -165 and 60 < y > 50:
-            self.name = self.screen.textinput("enter ur name :D", "luv u")
+            self.name = self.screen.textinput("enter ur name :D", "type here!!")
             self.screen.clear()
             self.int.after_int()
             self.dino()

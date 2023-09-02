@@ -17,8 +17,8 @@ class Interface:
 
     def start(self):
         # this method is the welcome screen to the users which contain texts and picture.
-        screen.addshape('background.gif')
-        self.draw.shape("background.gif")
+        screen.addshape('pictures/background.gif')
+        self.draw.shape("pictures/background.gif")
         self.play.color('goldenrod3')
         self.play.speed(0)
         self.play.hideturtle()
@@ -36,13 +36,13 @@ class Interface:
 
     def after_int(self):
         # this is the picture that will appear in the gaming phase.
-        screen.addshape('playing.gif')
-        self.draw_1.shape("playing.gif")
+        screen.addshape('pictures/playing.gif')
+        self.draw_1.shape("pictures/playing.gif")
 
     def game_over(self):
         # this is the picture that will appear after you lose.
-        screen.addshape('game over.gif')
-        self.over.shape("game over.gif")
+        screen.addshape('pictures/game over.gif')
+        self.over.shape("pictures/game over.gif")
 
     def txt(self):
         # this is the text after game over and it will tell you to click to exit.
@@ -57,8 +57,8 @@ class Interface:
         # this is the a sun picture of the sun in playing phase.
         self.sun.speed(0)
         self.sun.hideturtle()
-        screen.addshape('sun.gif')
-        self.sun.shape("sun.gif")
+        screen.addshape('pictures/sun.gif')
+        self.sun.shape("pictures/sun.gif")
         self.sun.penup()
         self.sun.goto(140, 265)
         self.sun.showturtle()

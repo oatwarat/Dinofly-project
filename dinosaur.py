@@ -20,8 +20,8 @@ class Dinosaur:
         # this function is to create a dinosaur shape and ask to go to position where we want
         self.dina.hideturtle()
         self.dina.left(90)
-        screen.addshape('dinofly.gif')
-        self.dina.shape("dinofly.gif")
+        screen.addshape('pictures/dinofly.gif')
+        self.dina.shape("pictures/dinofly.gif")
         self.dina.shapesize(1)
         self.dina.height = 200
         self.dina.width = 200

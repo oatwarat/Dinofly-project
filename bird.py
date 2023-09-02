@@ -26,8 +26,8 @@ class Bird:
         bird.speed(0)
         bird.goto(self.pos.x + self.random_x, self.pos.y + self.random_y)
         bird.pendown()
-        screen.addshape('bird.gif')
-        bird.shape("bird.gif")
+        screen.addshape('pictures/bird.gif')
+        bird.shape("pictures/bird.gif")
         bird.shapesize(1)
         bird.height = 150
         bird.width = 150

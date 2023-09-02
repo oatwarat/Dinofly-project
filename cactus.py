@@ -25,8 +25,8 @@ class Cactus:
         cactus.speed(0)
         cactus.goto(self.pos.x, self.pos.y)
         cactus.pendown()
-        screen.addshape('cactus.gif')
-        cactus.shape("cactus.gif")
+        screen.addshape('pictures/cactus.gif')
+        cactus.shape("pictures/cactus.gif")
         cactus.shapesize(1)
         cactus.height = 150
         cactus.width = 150
