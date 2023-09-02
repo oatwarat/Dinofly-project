@@ -1,19 +1,20 @@
-# DINOFLY GAME 🦕
-✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+# DINOFLY 🦕
+✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ## Overview
 
-This is a game project. The idea of this game is from the dinosaur game in **Google Chrome**. The project is called
+```This is a game project. The idea of this game is from the dinosaur game in **Google Chrome**. The project is called
 `Dinofly` game is because it is different from the actual dinosaur game. This game can fly up into the sky to avoid
 the obstacles and earn 5 points each time you have passed through each obstacle.
+```
 
 ####❤️ Welcome page
-    * The welcome page is the welcome screen to the game, in this page there'so
+* The welcome page is the welcome screen to the game, in this page there'so
       only one thing you should do which is to 
       click `PLAY` button in the middle of the page. After that, the pop-up 
       button will pop to ask you to write your name
       to continue to the main page and start playing the game.
         
-![Welcome page](welcome page.gif)
+![Welcome page](pictures/welcome page.gif)
   
 ####❤️ Playing
     
@@ -24,7 +25,7 @@ the obstacles and earn 5 points each time you have passed through each obstacle.
    In ex. when you started the game the obstacles start with the speed of 4, but when you achieved 50 points the 
    obstacle's speed might be 7
   
-![This is a second page](playing page.gif)
+![This is a second page](pictures/playing page.gif)
 
 
 ####❤️ Game over
@@ -36,7 +37,7 @@ the obstacles and earn 5 points each time you have passed through each obstacle.
  
 
 
-![This is a second page](game ov.gif)
+![This is a second page](pictures/game ov.gif)
 
 ### Required
 
